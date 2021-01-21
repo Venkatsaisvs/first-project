@@ -34,6 +34,8 @@ public class Main {
 		if( arr[0]== middle &&  middle == arr[n-1]) {
 			
 			System.out.println(arr[0]+" "+middle+" "+arr[n-1]);
+
+			System.out.println("Change one");
 			
 		}
 	}
